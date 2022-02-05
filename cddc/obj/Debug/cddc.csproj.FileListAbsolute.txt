@@ -1,0 +1,10 @@
+C:\Users\slava\source\repos\cddc\cddc\bin\Debug\cddc.exe.config
+C:\Users\slava\source\repos\cddc\cddc\bin\Debug\cddc.exe
+C:\Users\slava\source\repos\cddc\cddc\bin\Debug\cddc.pdb
+C:\Users\slava\source\repos\cddc\cddc\obj\Debug\cddc.csprojAssemblyReference.cache
+C:\Users\slava\source\repos\cddc\cddc\obj\Debug\cddc.Form1.resources
+C:\Users\slava\source\repos\cddc\cddc\obj\Debug\cddc.Properties.Resources.resources
+C:\Users\slava\source\repos\cddc\cddc\obj\Debug\cddc.csproj.GenerateResource.cache
+C:\Users\slava\source\repos\cddc\cddc\obj\Debug\cddc.csproj.CoreCompileInputs.cache
+C:\Users\slava\source\repos\cddc\cddc\obj\Debug\cddc.exe
+C:\Users\slava\source\repos\cddc\cddc\obj\Debug\cddc.pdb
